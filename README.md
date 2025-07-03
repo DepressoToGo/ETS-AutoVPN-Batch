@@ -1,2 +1,5 @@
 # ETS-AutoVPN
-Batch script to be able to connect to ÉTS VPN automatically / Script en Batch pour se connecter au VPN de l'ÉTS automatiquement 
+Batch script to be able to connect to ÉTS VPN automatically
+
+
+Place the file in any folder you can access safely and add it to start programs.
